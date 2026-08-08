@@ -6,6 +6,14 @@ You pick a genre → get top-rated movies → see where they stream in India →
 
 ---
 
+## Live demo
+
+Watch a full run of the program:
+
+[recording.mp4 (Google Drive)](https://drive.google.com/file/d/15IrMsTjJvOQclTbSS_r92T13aBW_Brja/view?usp=drive_link)
+
+---
+
 ## What it does
 
 1. Loads secrets from `.env`
